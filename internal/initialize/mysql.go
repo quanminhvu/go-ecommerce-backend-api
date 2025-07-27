@@ -32,6 +32,9 @@ func InitMySQL() {
 	SetPool()
 	migrateTable()
 
+	fmt.Println("MySQL connected")
+	global.Logger.Info("MySQL connected", zap.String("ok", "success"))
+
 }
 
 func SetPool() {
