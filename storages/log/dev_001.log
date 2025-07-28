@@ -1,3 +1,9 @@
 {"level":"INFO","timestamp":"2025-07-27T10:29:55.827+0700","caller":"initialize/run.go:15","msg":"Config log successfully","ok":"success"}
 {"level":"INFO","timestamp":"2025-07-27T10:29:55.933+0700","caller":"initialize/mysql.go:36","msg":"MySQL connected","ok":"success"}
 {"level":"INFO","timestamp":"2025-07-27T10:29:55.934+0700","caller":"initialize/redis.go:26","msg":"Redis connected","ok":"success"}
+{"level":"INFO","timestamp":"2025-07-27T21:29:04.253+0700","caller":"initialize/run.go:15","msg":"Config log successfully","ok":"success"}
+{"level":"INFO","timestamp":"2025-07-27T21:29:04.374+0700","caller":"initialize/mysql.go:36","msg":"MySQL connected","ok":"success"}
+{"level":"INFO","timestamp":"2025-07-27T21:29:04.375+0700","caller":"initialize/redis.go:26","msg":"Redis connected","ok":"success"}
+{"level":"INFO","timestamp":"2025-07-27T21:29:10.670+0700","caller":"initialize/run.go:15","msg":"Config log successfully","ok":"success"}
+{"level":"INFO","timestamp":"2025-07-27T21:29:10.786+0700","caller":"initialize/mysql.go:36","msg":"MySQL connected","ok":"success"}
+{"level":"INFO","timestamp":"2025-07-27T21:29:10.787+0700","caller":"initialize/redis.go:26","msg":"Redis connected","ok":"success"}

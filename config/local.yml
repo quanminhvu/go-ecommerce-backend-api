@@ -1,5 +1,6 @@
 server:
   port: 8080
+  mode: dev
 mysql:
   username: quanvm
   password: 098poiA@
