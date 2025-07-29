@@ -1,3 +1,4 @@
 docs
 config/production.yml
 database_docker/
+.idea
